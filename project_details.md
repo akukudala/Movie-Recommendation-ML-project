@@ -30,7 +30,8 @@ Steps followed.
     ![image](https://github.com/user-attachments/assets/c4b9a8d0-6cc8-4d24-8d89-ade6aa6c6cc8)
 10. Let's try again with another input. Wow! i got the recommendations correctly. 
      ![image](https://github.com/user-attachments/assets/7d2b0646-ba3f-4520-9f70-2fa80fbaa773)
-
+Access the full code in the below notebook.\
+https://github.com/akukudala/Movie-Recommendation-ML-project/blob/main/Movie_Recommendation.ipynb\
 Happy ML!
 
 References:
