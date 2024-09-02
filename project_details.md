@@ -34,7 +34,7 @@ Access the full code in the below notebook.\
 https://github.com/akukudala/Movie-Recommendation-ML-project/blob/main/Movie_Recommendation.ipynb\
 Happy ML!
 
-References:
+References:\
 https://memgraph.com/blog/cosine-similarity-python-scikit-learn\
 https://www.youtube.com/watch?v=7rEagFH9tQg
 
