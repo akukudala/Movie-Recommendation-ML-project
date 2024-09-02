@@ -1,4 +1,6 @@
 ## Movie Recommendation
+![image](https://github.com/user-attachments/assets/41c78245-0bd4-4a24-8c67-5e45934f84bb)
+
 
 Whenever I logon to my Netflix profile, I always see the right recommendations. I am mostly into sitcoms and comedy movies. Most of those recommendations are appropriate
 for me. Let's try the same by using a small dataset and few libraries in python.
@@ -32,6 +34,6 @@ Steps followed.
 Happy ML!
 
 References:
-https://memgraph.com/blog/cosine-similarity-python-scikit-learn
+https://memgraph.com/blog/cosine-similarity-python-scikit-learn\
 https://www.youtube.com/watch?v=7rEagFH9tQg
 
