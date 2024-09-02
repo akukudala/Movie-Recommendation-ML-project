@@ -35,6 +35,6 @@ https://github.com/akukudala/Movie-Recommendation-ML-project/blob/main/Movie_Rec
 Happy ML!
 
 References:\
-https://memgraph.com/blog/cosine-similarity-python-scikit-learn\
-https://www.youtube.com/watch?v=7rEagFH9tQg
+1. https://memgraph.com/blog/cosine-similarity-python-scikit-learn\
+2. https://www.youtube.com/watch?v=7rEagFH9tQg
 
